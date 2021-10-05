@@ -1,0 +1,42 @@
+fieldset {
+    background-color: aquamarine;
+    width: fit-content;
+}
+
+legend {
+    margin-bottom: 0px;
+    margin-left: 16px;
+}
+
+input[type=number] {
+    background-color: cadetblue;
+    color: white;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+#ownCal {
+    font-size: 30px;
+    color: darkblue;
+    background-color: aliceblue;
+    width: fit-content;
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    padding: 20px;
+}
+
+#kogus4 {
+    height: 25px;
+    width: 200px;
+}
+
+#vastus4 {
+    background-color: darkorange;
+    width: fit-content;
+    margin: auto;
+}
+
